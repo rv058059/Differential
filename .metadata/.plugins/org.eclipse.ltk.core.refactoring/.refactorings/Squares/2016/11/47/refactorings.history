@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;squares.squares_lib&apos; to &apos;Squares_lib&apos;&#x0D;&#x0A;- Original project: &apos;Squares&apos;&#x0D;&#x0A;- Original element: &apos;squares.squares_lib&apos;&#x0D;&#x0A;- Renamed element: &apos;squares.Squares_lib&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;squares_lib&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;squares{squares_lib.java[squares_lib" matchStrategy="1" name="Squares_lib" qualified="false" references="true" similarDeclarations="false" stamp="1479181890128" textual="false" version="1.0"/>
+</session>

@@ -1,5 +1,0 @@
-package differential;
-
-public interface Differential_if {
-
-}

@@ -1,0 +1,9 @@
+package frametest;
+
+import java.awt.Frame;
+extends Frame implements ActionListener@,@WindowListener
+
+
+public class Frame_view {
+	
+}

@@ -12,10 +12,10 @@ public class Differential_main {
 		 System.out.print("Input value of h > ");
 		 double h = Double.parseDouble(scan.next());
 
-		 Differential_lib dlib = new Differential_lib(a,h);
-		 System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é”÷•ªŒW”‚Í"+dlib.getRx());
-		 System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é”’l”÷•ª‚Í"+dlib.getDx());
-		 System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í"+Math.abs(dlib.getRx()-dlib.getDx())/dlib.getRx()/dlib.getRx());
+		 Differential_lib elib = new Differential_lib(a,h);
+		 System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é”÷•ªŒW”‚Í"+elib.getRx());
+		 System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é”’l”÷•ª‚Í"+elib.getDx());
+		 System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í"+Math.abs(elib.getRx()-elib.getDx())/elib.getRx()/elib.getRx());
 				
 	}
 	
